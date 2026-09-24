@@ -1,0 +1,136 @@
+# Task 5 – Individual Case Safety Report (ICSR)
+
+## 1. Case Identification
+
+**Case ID:** TASK5-ICSR-001
+
+**Report Type:** Initial ADR Report
+
+**Report Classification:** Individual Case Safety Report (ICSR)
+
+**Medical Condition / Indication:** Respiratory Tract Infection
+
+---
+
+## 2. Patient Information
+
+**Patient Initials:** [Enter case details]
+
+**Age:** [Enter age]
+
+**Sex:** [Male/Female]
+
+**Patient Relevant History:** [Enter information provided in case]
+
+---
+
+## 3. Suspected Medicine
+
+**Medicine Name:** [Enter drug name]
+
+**Dose:** [Enter dose]
+
+**Route:** [Oral/IV/etc.]
+
+**Frequency:** [Enter frequency]
+
+**Indication:** Respiratory Tract Infection
+
+**Start Date:** [Enter date]
+
+**Stop Date:** [Enter date, if available]
+
+---
+
+## 4. Adverse Drug Reaction
+
+**Adverse Reaction:** [Enter exact reaction from case]
+
+**Date of Onset:** [Enter date/day]
+
+**Description of Reaction:**
+The patient developed the reported adverse reaction after administration of the suspected medicine.
+
+**Clinical Features:** [Enter symptoms/signs from case]
+
+**Outcome:** [Recovered/Recovering/Not recovered/etc.]
+
+---
+
+## 5. ADR Identification
+
+**Suspected ADR:** [Reaction]
+
+**Drug suspected:** [Medicine]
+
+**ADR Type:** Type A / Type B / Other
+
+**Reason:** The temporal relationship between administration of the suspected medicine and occurrence of the adverse reaction was assessed.
+
+---
+
+## 6. Management of ADR
+
+**Action Taken with Suspected Medicine:** [Continued/Reduced dose/Discontinued]
+
+**Treatment Given for ADR:** [Enter treatment]
+
+**Outcome After Management:** [Enter outcome]
+
+---
+
+## 7. Seriousness Assessment
+
+**Seriousness:** Serious / Non-serious
+
+**Seriousness Criterion:** [Hospitalization / Life-threatening / Disability / Other]
+
+**Reason:** The seriousness was assessed according to the clinical outcome and information provided in the case.
+
+---
+
+## 8. Expectedness
+
+**Expectedness:** Expected / Unexpected
+
+**Reason:** The reaction was assessed against the known safety profile/product information of the suspected medicine.
+
+---
+
+## 9. Causality Assessment
+
+**Method:** WHO-UMC Causality Assessment
+
+**Causality Category:** Certain / Probable-Likely / Possible / Unlikely / Conditional-Unclassified / Unassessable
+
+**Assessment:**
+- Temporal relationship: [Yes/No]
+- Alternative causes: [Present/Absent/Unknown]
+- Dechallenge: [Positive/Negative/Not applicable/Unknown]
+- Rechallenge: [Positive/Negative/Not performed/Unknown]
+
+**Final Causality:** [Enter category]
+
+---
+
+## 10. Severity Classification
+
+**Severity:** Mild / Moderate / Severe
+
+**Clinical Impact:** [Enter case-specific impact]
+
+**Justification:** Severity was classified according to the clinical manifestations and impact on the patient described in the case.
+
+---
+
+## 11. ICSR Summary
+
+The case was evaluated as an Individual Case Safety Report. The suspected medicine, adverse reaction, temporal relationship, management, outcome, seriousness, expectedness and causality were assessed using pharmacovigilance principles.
+
+---
+
+## 12. Final Conclusion
+
+The reported adverse event was assessed in relation to the suspected medicinal product. The final classification was based on the available patient information, clinical course, seriousness, expectedness and WHO-UMC causality assessment.
+
+**Overall Assessment:** [Enter final assessment based on the case]
